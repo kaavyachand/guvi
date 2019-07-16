@@ -1,0 +1,7 @@
+a=int(input())
+if a==3:
+print("positive")
+elif a!=3:
+print("negative")
+else:
+print("zero")
